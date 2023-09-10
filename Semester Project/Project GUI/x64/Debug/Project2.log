@@ -1,0 +1,20 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Project2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  MyForm.cpp
+D:\NUST EME\3rd Semester\Object-Oriented Programming\Semester Project\Project GUI\Code.h(151,71): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\NUST EME\3rd Semester\Object-Oriented Programming\Semester Project\Project GUI\Code.h(153,73): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\NUST EME\3rd Semester\Object-Oriented Programming\Semester Project\Project GUI\Code.h(710,8): warning C4101: 'flag': unreferenced local variable
+D:\NUST EME\3rd Semester\Object-Oriented Programming\Semester Project\Project GUI\Code.h(739,8): warning C4101: 'flag': unreferenced local variable
+D:\NUST EME\3rd Semester\Object-Oriented Programming\Semester Project\Project GUI\Code.h(769,30): warning C4584: 'AudioPlayerV2': base-class 'AudioPlayer' is already a base-class of 'Song'
+D:\NUST EME\3rd Semester\Object-Oriented Programming\Semester Project\Project GUI\Code.h(14,7): message : see declaration of 'AudioPlayer'
+D:\NUST EME\3rd Semester\Object-Oriented Programming\Semester Project\Project GUI\Code.h(169,7): message : see declaration of 'Song'
+D:\NUST EME\3rd Semester\Object-Oriented Programming\Semester Project\Project GUI\TotalTime.h(71): warning C4715: 'id3v1siz': not all control paths return a value
+D:\NUST EME\3rd Semester\Object-Oriented Programming\Semester Project\Project GUI\Code.h(705): warning C4715: 'Song::Search': not all control paths return a value
+D:\NUST EME\3rd Semester\Object-Oriented Programming\Semester Project\Project GUI\Code.h(447): warning C4715: 'Song::Next_Song_File': not all control paths return a value
+D:\NUST EME\3rd Semester\Object-Oriented Programming\Semester Project\Project GUI\Code.h(526): warning C4715: 'Song::Previous_Song_File': not all control paths return a value
+D:\NUST EME\3rd Semester\Object-Oriented Programming\Semester Project\Project GUI\Code.h(1015): warning C4715: 'AudioPlayerV2::Next_Song_Playlist': not all control paths return a value
+D:\NUST EME\3rd Semester\Object-Oriented Programming\Semester Project\Project GUI\Code.h(1073): warning C4715: 'AudioPlayerV2::Previous_Song_Playlist': not all control paths return a value
+D:\NUST EME\3rd Semester\Object-Oriented Programming\Semester Project\Project GUI\Code.h(649): warning C4715: 'Song::DisplayFile': not all control paths return a value
+D:\NUST EME\3rd Semester\Object-Oriented Programming\Semester Project\Project GUI\Code.h(624): warning C4715: 'Song::AddSongsFromFile': not all control paths return a value
+D:\NUST EME\3rd Semester\Object-Oriented Programming\Semester Project\Project GUI\Code.h(878): warning C4715: 'AudioPlayerV2::addSong': not all control paths return a value
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Project2.vcxproj -> D:\NUST EME\3rd Semester\Object-Oriented Programming\Semester Project\Project GUI\x64\Debug\Project GUI.exe

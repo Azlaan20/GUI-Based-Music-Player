@@ -1,0 +1,7 @@
+﻿  Source.cpp
+I:\semester3\OOP\Project\OOPFinalProject\OOPFinalProject\Source.cpp(195,7): warning C4101: 'Index': unreferenced local variable
+I:\semester3\OOP\Project\OOPFinalProject\OOPFinalProject\Source.cpp(533,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+I:\semester3\OOP\Project\OOPFinalProject\OOPFinalProject\Source.cpp(538,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+I:\semester3\OOP\Project\OOPFinalProject\OOPFinalProject\Source.cpp(338): warning C4715: 'InCarAudio::DisplayTitle': not all control paths return a value
+Source.obj : error LNK2019: unresolved external symbol __imp_PlaySoundW referenced in function "public: virtual bool __cdecl InCarAudio::PlayAudio(void)" (?PlayAudio@InCarAudio@@UEAA_NXZ)
+I:\semester3\OOP\Project\OOPFinalProject\x64\Debug\OOPFinalProject.exe : fatal error LNK1120: 1 unresolved externals

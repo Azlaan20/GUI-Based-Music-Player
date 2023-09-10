@@ -1,0 +1,15 @@
+C:\Users\Azlaan\source\repos\Project2\x64\Debug\Project2.vcxproj.AssemblyReference.cache
+C:\Users\Azlaan\source\repos\Project2\x64\Debug\Project2.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Azlaan\source\repos\Project2\x64\Debug\Project2.MyForm.resources
+C:\Users\Azlaan\source\repos\Project2\x64\Debug\Project2.vcxproj.GenerateResource.cache
+C:\Users\Azlaan\source\repos\Project2\x64\Debug\Project GUI.exe
+C:\Users\Azlaan\source\repos\Project GUI\x64\Debug\Project2.vcxproj.AssemblyReference.cache
+C:\Users\Azlaan\source\repos\Project GUI\x64\Debug\Project2.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Azlaan\source\repos\Project GUI\x64\Debug\Project2.MyForm.resources
+C:\Users\Azlaan\source\repos\Project GUI\x64\Debug\Project2.vcxproj.GenerateResource.cache
+C:\Users\Azlaan\source\repos\Project GUI\x64\Debug\Project GUI.exe
+D:\NUST EME\3rd Semester\Object-Oriented Programming\Semester Project\Project GUI\x64\Debug\Project2.vcxproj.AssemblyReference.cache
+D:\NUST EME\3rd Semester\Object-Oriented Programming\Semester Project\Project GUI\x64\Debug\Project2.vcxproj.SuggestedBindingRedirects.cache
+D:\NUST EME\3rd Semester\Object-Oriented Programming\Semester Project\Project GUI\x64\Debug\Project2.MyForm.resources
+D:\NUST EME\3rd Semester\Object-Oriented Programming\Semester Project\Project GUI\x64\Debug\Project2.vcxproj.GenerateResource.cache
+D:\NUST EME\3rd Semester\Object-Oriented Programming\Semester Project\Project GUI\x64\Debug\Project GUI.exe

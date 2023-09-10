@@ -1,0 +1,4 @@
+C:\Users\hp\source\repos\OOP_Project\Debug\OOP_Project.vcxproj.AssemblyReference.cache
+C:\Users\hp\source\repos\OOP_Project\Debug\OOPProject.MyForm.resources
+C:\Users\hp\source\repos\OOP_Project\Debug\OOP_Project.vcxproj.GenerateResource.cache
+C:\Users\hp\source\repos\OOP_Project\Debug\OOP_Project.exe

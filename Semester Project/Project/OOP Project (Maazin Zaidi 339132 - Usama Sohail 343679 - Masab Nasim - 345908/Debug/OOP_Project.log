@@ -1,0 +1,16 @@
+﻿  MyForm.cpp
+C:\Users\hp\source\repos\OOP_Project\ProjectHeader.h(180,25): warning C4101: 'input': unreferenced local variable
+C:\Users\hp\source\repos\OOP_Project\ProjectHeader.h(180,7): warning C4101: 'Index': unreferenced local variable
+C:\Users\hp\source\repos\OOP_Project\ProjectHeader.h(265,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hp\source\repos\OOP_Project\ProjectHeader.h(311,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hp\source\repos\OOP_Project\ProjectHeader.h(400,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hp\source\repos\OOP_Project\ProjectHeader.h(425,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hp\source\repos\OOP_Project\ProjectHeader.h(461,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hp\source\repos\OOP_Project\ProjectHeader.h(521,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\hp\source\repos\OOP_Project\ProjectHeader.h(583,42): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hp\source\repos\OOP_Project\ProjectHeader.h(593,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hp\source\repos\OOP_Project\ProjectHeader.h(596,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hp\source\repos\OOP_Project\ProjectHeader.h(604,17): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hp\source\repos\OOP_Project\ProjectHeader.h(323): warning C4715: 'InCarAudio::DisplayTitle': not all control paths return a value
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  OOP_Project.vcxproj -> C:\Users\hp\source\repos\OOP_Project\Debug\OOP_Project.exe
